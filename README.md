@@ -3,3 +3,5 @@
 brew install cmake protobuf rust python@3.10 git wget
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 stable-diffusion-webui/models/Stable-diffusion
+cd stable-diffusion-webui
+./webui.sh
